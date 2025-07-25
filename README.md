@@ -2,6 +2,10 @@
 
 Corruchart is a robust, fun, and interactive chart made for sexual beings of all kinds to discover, fill in, and share with others! Humans have long had a very large diversity of identities, sexual interests, preferences, and paraphilias. This chart intends to cover the plethora of everything under that umbrella and intends to evolve and expand with the suggestions of others.
 
+<p align="center">
+    <img src="cloud.png">
+</p>
+
 ## Explanation and How to Use
 To save space and time, interests are not as granular as they could be (e.g., every possible orientation of each interest, receiving/giving, etc.). So in order to most accurately interpret a person's interests, the context of the other information on their chart should be considered and the viewer will have to make conclusions of likeliness to determine these things. For example: a person who identifies as a dominant and a top who also enjoys anal sex would likely be a giver, not a receiver. 
 
