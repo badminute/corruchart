@@ -10,7 +10,7 @@ Corruchart is a robust, fun, and interactive chart made for sexual beings of all
 To save space and time, interests are not as granular as they could be (e.g., every possible orientation of each interest, receiving/giving, etc.). So in order to most accurately interpret a person's interests, the context of the other information on their chart should be considered and the viewer will have to make conclusions of likeliness to determine these things. For example: a person who identifies as a dominant and a top who also enjoys anal sex would likely be a giver, not a receiver. 
 
 ## Features
-- [x] Sexual identities, fetishes, kinks, and interests. A total of **786** different interests to weigh in on!
+- [x] Sexual identities, fetishes, kinks, and interests. A total of **812** different interests to weigh in on!
 - [x] Descriptions for each interest and identity label, no need to do your own research on what each term means, we've got you covered. You can learn all within the chart itself.
 - [ ] A "corruption" scale that is affected by your positive choices on entries within the chart. Find out how much of an angle or demen you are, amount of corruption gained per preferred interest will vary.
 - [ ] Sort by categories, alphabetical order, or corruption amounts.
